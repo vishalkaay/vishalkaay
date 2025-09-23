@@ -1,15 +1,14 @@
 # Vishalkay
 
 I am a B.Tech 3rd year student at IIT Kanpur.  
-My main interests are machine learning, cybersecurity, hardware security, and web development.  
-I also enjoy singing, especially old Bollywood music.  
+My main interests are machine learning, cybersecurity, hardware security.
+I also enjoy singing.
 
 ---
 
 ## About Me
 - B.Tech at IIT Kanpur  
-- Exploring ML, cybersecurity, Verilog, SQL, and Kubernetes  
-- Past projects: Mollycule (CHE261), Tweet Decoder (ML), Fluroxypyr EHS Evaluation  
+- Exploring ML, cybersecurity, Verilog, SQL
 
 ---
 
@@ -18,16 +17,19 @@ I also enjoy singing, especially old Bollywood music.
 - Python  
 - SQL  
 - Verilog  
-- Kubernetes  
 - Git/GitHub  
 - Linux  
 
 ---
 
 ## Projects
-- **Mollycule** – 3D molecular visualizer for CHE261  
-- **Tweet Decoder** – Machine learning project for text analysis  
-- **Fluroxypyr EHS Evaluation** – Industrial safety and compliance project  
+## Projects
+- **[Anime Recommendation System](https://github.com/vishalkaay/anime-recommendation-system)** – Content-based recommender using TF-IDF and Streamlit.  
+- **[Linux System Info CLI Tool](https://github.com/vishalkaay/system-info-cli)** – Command-line tool for monitoring system resources with extra utilities.  
+- **[ML Kickstart](https://github.com/vishalkaay/ml-kickstart)** – Genre classification of songs using machine learning models.  
+- **[GIF Malware Detector](https://github.com/vishalkaay/gif-malware-detector)** – Detects hidden malware or steganography in GIF files.  
+- **[Algorithmic Problem Solving](https://github.com/vishalkaay/algorithmic-problem-solving)** – Implemented and benchmarked advanced graph algorithms and solvers.  
+
 
 ---
 
