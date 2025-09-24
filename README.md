@@ -1,4 +1,4 @@
-# Vishalkay
+# Vishalkaay
 
 I am a B.Tech 3rd year student at IIT Kanpur.  
 My main interests are machine learning, cybersecurity, hardware security.
