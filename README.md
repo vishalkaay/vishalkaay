@@ -35,7 +35,3 @@
 | [**flask-admin**](https://github.com/pallets-eco/flask-admin/pull/2996)<br><sub>Merged</sub> | Fixed a crash when admin views are created outside an application context with Flask-SQLAlchemy-Lite. |
 | [**pr-agent**](https://github.com/The-PR-Agent/pr-agent/pull/4459)<br><sub>Merged</sub> | Moved the Bitbucket `app_key` setting to the right section of the secrets template. |
 | [**MyST-Parser**](https://github.com/executablebooks/MyST-Parser/pull/1217)<br><sub>Landed in #1169</sub> | Fixed line counting for `{include}` with `:start-after:`. |
-
-<br>
-
-<p align="center"><sub>After midnight, I sing old Bollywood songs.</sub></p>
