@@ -24,6 +24,7 @@
 |:--|:--|
 | [**gifsleuth**](https://github.com/vishalkaay/gifsleuth)<br><sub>Python · Security</sub> | A zero-dependency forensics scanner for GIF files. It finds polyglots, web shells, appended archives and steganography in the regions a renderer never draws. |
 | [**histwise**](https://github.com/vishalkaay/histwise)<br><sub>Go · CLI</sub> | Reads your bash, zsh or fish history and suggests the aliases that would save you the most keystrokes. |
+| [**Suggesteria**](https://github.com/vishalkaay/anime-recommendation-system)<br><sub>Python · ML · [Live demo](https://suggesteria-anime.streamlit.app/)</sub> | A content-based anime recommender. Pick a title and it suggests the most similar ones from a catalogue of about 12,000. |
 | [**aspen-mcp**](https://github.com/vishalkaay/aspen-mcp)<br><sub>PowerShell · MCP</sub> | An MCP server that lets Claude build, run and analyse Aspen Plus simulations in a live Aspen window. |
 | [**Pipelined&nbsp;AES&#8209;128**](https://github.com/CryptoPwners/Outer-round-pipelined-AES128)<br><sub>Verilog · FPGA</sub> | An 11-stage pipelined AES core, verified against NIST vectors and deployed on a PYNQ-Z2. |
 | [**Fusion&nbsp;power&nbsp;prediction**](https://github.com/vishalkaay/Fusion-Power-Prediction-using-PINNs)<br><sub>Python · ML</sub> | A physics-informed neural network that predicts fusion reactor power output, compared against a standard network. |
