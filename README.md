@@ -1,6 +1,6 @@
 ## Vishal Raj
 
-Final-year undergraduate at IIT Kanpur. I work on hardware security, GPU computing and command-line tools. Currently a security intern at C3iHub, building an IoT testbed for firmware and wireless auditing.
+Final-year undergraduate at IIT Kanpur. I work on hardware security and command-line tools. Currently a security intern at C3iHub, building an IoT testbed for firmware and wireless auditing.
 
 ### Projects
 
