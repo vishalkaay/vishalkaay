@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-    <img src="assets/header-light.svg" alt="Vishal Raj. Engineer by degree, singer by soul." width="820">
+    <img src="assets/header-light.svg" alt="Vishal Raj" width="820">
   </picture>
 </p>
 
